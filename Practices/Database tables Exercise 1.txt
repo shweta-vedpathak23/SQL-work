@@ -1,0 +1,132 @@
+Database Analysis:-
+
+I. Database Analysis of School Database
+Students (ID, name, standard, age, city)
+Teachers (ID, name, subject, contact, address)
+Classrooms (ID, floor, standard, capacity, monitor)
+Staff (ID, name, position,contact,salary)
+Sports (ID,name, coach name, no. of students, schedule)
+
+II. Database Analysis of Hospital Database
+Doctors (ID, name,position, address, contact)
+Patient (ID, name, address, age, blood group)
+Nurse (ID, name, department, address, contact)
+Staff (ID, name, department, address, contact)
+Medicines (ID, name, brand name, supplier, expiry date)
+
+III. Database Analysis of Bank Database
+Employees (ID, Name,designation, contact, address)
+Account holders (ID, Name, address, city, account type)
+Locker( ID, Number, Account holder name, Nominee, address)
+Staff (ID, name, department, address, contact)
+Branch (ID, city, area, branch Head, staff)
+
+IV. Database Analysis of Railways Database
+Trains (ID, train no, train type, capacity, No. of coaches)
+Staff (ID, name, department, address, contact)
+Passengers (ID, name, seat no, coach type, train name)
+Schedules (ID, train name, route, departure time, arrival time)
+Bookings (ID, train name, route, passenger name, seat no, coach no)
+
+V. Database Analysis of Hotel Database
+Employees (ID, Name, contact, address, department)
+Customers (ID, name, contact, rating, ID proof)
+Rooms (ID, number, floor, type, capacity)
+Chef (ID, name, address, contact, specialization)
+Booking (ID, customer name, Room no, check in date, check out date)
+
+VI. Database Analysis of Flipkart Database
+Customer (ID, name, contact, address, email id)
+Product (ID, name, brand, price, quantity)
+supplier (ID, name, contact, address, email id)
+Employees (ID, Name, contact, address, salary)
+warehouse( ID, product name, date of manufacturing, date of expiry, quantity)
+
+VII. Database Analysis of Zomato Database
+Customer (ID, name, contact, address, email id)
+Product (ID, name, category, price, quantity)
+Delivery partner (ID, name, contact, address, vehicle number)
+Employees (ID, Name, contact, address, salary)
+Restaurant (ID, name, location, cuisine type, rating)
+
+VIII. Database Analysis of Airlines Database
+Passenger (ID, name, contact, address, email id)
+Aeroplane( ID, name, capacity, pilot, route)
+Employees (ID, Name, contact, address, salary)
+Booking (ID, passenger name, flight, seat number, class)
+airport (ID, name, city, state, country)
+
+IX. Database Analysis of Mall Database
+Customer (ID, name, contact, address, email id)
+Shops (ID, name, type, floor no, lease)
+Employees (ID, Name, contact, address, salary)
+Event(ID, name, organizer name, date, participants)
+Parking (ID, slot no, parking fee, vehicle type, floor)
+
+X. Database Analysis of Library Database
+Books(ID, name, author, publisher, language)
+Member(ID, name, contact, membership type, membership duration)
+Staff (ID, Name, contact, address, salary)
+Magazines (ID, name, month, publisher, language)
+Issue (ID, member name, issue date, return date, fine amount)
+
+XI. Database Analysis of College Database
+students(ID, name, age, address, admission year)
+Teachers (ID, name, subject, class, qualification)
+course(ID, name, duration, no of students, fees)
+Fees(ID, student name, amount, payment mode, date of payment)
+Staff (ID, Name, contact, address, salary)
+
+XII. Database Analysis of Birthday Party Database
+Guests (ID, name, contact, age, relation)
+Host(ID, name, party date, party time, venue)
+Gifts(ID, guest Name, item description, gift value, gift status)
+Menu (ID, item name, quantity, category, veg/non-veg)
+Return gift(ID, guest name, Item description, guest review , relationship)
+
+XIII. Database Analysis of Cab services Database
+Cab driver (ID, Name, contact, address, license number)
+Vehicle (ID, name, vehicle no, type, seating capacity)
+Customer (ID, name, contact, address, email id)
+Employees (ID, Name, contact, address, salary)
+Rides (ID, Driver name, vehicle no, customer name, route)
+
+XIV. Database Analysis of Travel Agent Database
+Customer (ID, name, contact, address, email id)
+Hotel( ID, name, city, rating, room type)
+Booking (ID, customer name, booking date, no. of people, destination)
+Transport (ID, transport company, vehicle type, capacity, vehicle no)
+Travel package (ID, package name, destination, duration, cost)
+
+XV. Database Analysis of E-learning platform Database
+Customer (ID, name, age, address, Date of admission)
+Courses (ID, name, duration, description, language)
+Exam(ID, course name, customer name, marks obtained, grade)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
